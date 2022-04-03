@@ -1,0 +1,49 @@
+.icon {
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+}
+
+.searchbox {
+    background-color:#ccc;
+    margin: 30px;
+    width: 100%;
+    width: 100%;
+    text-align:center;
+
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    display: flex;
+    direction: row;
+    margin: 30px;
+    gap: 2px;
+    
+}
+
+.lefts {
+    text-align: center;    
+    background-color: aqua;
+    flex: 4;
+
+}
+.middles {
+    text-align: center;   
+    background-color: rgb(78, 180, 180);
+    flex: 3;
+}
+.rights {
+    text-align: center;
+    background-color: rgb(76, 203, 203);
+    flex:5;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
